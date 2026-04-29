@@ -1,5 +1,4 @@
-# 👩‍💻 Hi there, I'm Arishajs <img src="https://media.giphy.com/media/WUlpyO7lsN9p5O9Hgc/giphy.gif" width="30">
-
+# 👩‍💻 Hi there, I'm Arishajs 
 ### 🚀 Crafting the Future, One Pixel at a Time
 I am a **Web Developer & Coder** dedicated to building modern, high-performance web applications. My focus lies at the intersection of **clean code**, **semantic markup**, and **aesthetic UI designs**.
 
