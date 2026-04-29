@@ -18,17 +18,6 @@ I am a **Web Developer & Coder** dedicated to building modern, high-performance 
 
 ---
 
-### 📈 Coding Activity
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arishajs&layout=compact&theme=vision-friendly-dark&hide_border=true&border_radius=10" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arishajs&show_icons=true&theme=vision-friendly-dark&count_private=true&hide_border=true&border_radius=10" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=arishajs&theme=vision-friendly-dark&hide_border=true&border_radius=10" />
-</p>
-
 ---
 
 ### 📫 Connect with Me
